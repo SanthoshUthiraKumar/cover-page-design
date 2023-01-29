@@ -136,8 +136,10 @@ Publish the website in the url santhosh.student.saveetha.in:8000.
 ```
 
 ## Output:
-![images](images/CoverPageOutput.png)
-![images](images/CoverPageValidator.png)
+![CoverPageOutput](https://user-images.githubusercontent.com/119477975/215324916-57da3f3a-6a68-41f8-9c55-111f417521d2.png)
+
+![CoverPageValidator](https://user-images.githubusercontent.com/119477975/215324922-157ac9d1-cd53-402b-a24f-68be71c29256.png)
+
 
 ## Result:
 A website to display Book Cover Page design is executed successfully
